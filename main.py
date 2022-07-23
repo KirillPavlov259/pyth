@@ -1,5 +1,5 @@
-data1 = int(input("Value"))
-data2 = int(input("Value"))
+data1 = int(input("Value: "))
+data2 = int(input("Value: "))
 
 def calc(x, y):
     print("+", x + y, sep="|")
